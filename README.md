@@ -1,4 +1,11 @@
-## Deskbook API preparation
+# Deskbook API preparation
+![python](https://img.shields.io/static/v1?label=Python&message=3.10&color=<COLOR>)
+![FastAPI](https://img.shields.io/static/v1?label=FastAPI&message=0.119.0&color=<COLOR>)
+![pydantic](https://img.shields.io/static/v1?label=pydantic&message=2.12.3&color=<COLOR>)
+![sqlalchemy](https://img.shields.io/static/v1?label=SQLalchemy&message=2.0.44&color=<COLOR>)
+![GeoAlchemy2](https://img.shields.io/static/v1?label=GeoAlchemy2&message=0.18.0&color=<COLOR>)
+![alembic](https://img.shields.io/static/v1?label=alembic&message=1.17.0&color=<COLOR>)
+
 Для запуска контейнера приложения используй
 ```bash
 docker compose up dev_api
