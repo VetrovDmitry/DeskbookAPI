@@ -6,3 +6,4 @@ migrations/versions/__pycache__
 idea/
 .DS_Store
 .idea/
+db-data/

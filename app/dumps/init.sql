@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict EO7QCjCPFgQZYOjXFxEEcF2qAoBza0L6g8Kz4zwSmCcmFIeUrmTtPrGVgIutMrR
+/restrict EO7QCjCPFgQZYOjXFxEEcF2qAoBza0L6g8Kz4zwSmCcmFIeUrmTtPrGVgIutMrR
 
 -- Dumped from database version 15.8
 -- Dumped by pg_dump version 15.14 (Homebrew)
