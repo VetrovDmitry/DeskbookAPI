@@ -15,7 +15,7 @@ docker compose up -d dev_db
 ```bash
 source .env
 psql -U $DB_USER -h localhost -p 15432 postgres < app/dumps/init.sql 
-(Пароль для БД: "admim")
+(Пароль для БД: "admin")
 ```
 
 Для запуска контейнера приложения используй
